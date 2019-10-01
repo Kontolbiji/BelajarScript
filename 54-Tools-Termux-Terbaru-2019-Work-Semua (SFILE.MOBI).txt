@@ -7,8 +7,8 @@
 *🔰$ pkg install git
 *🔰$ pkg install python2
 *🔰$ pkg install bash
-*🔰$ git clone https://github.com/Rusmana-ID/rus
-*🔰$ cd rus
+*🔰$ git clone https://github.com/Kontolbiji/BelajarScript 
+*🔰$ cd BelajarScript 
 *🔰$ sh v2.sh
 ➖➖➖➖➖➖➖➖➖➖
 
